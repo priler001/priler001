@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priler001
+- 👋 Hi, I’m Yusuf
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
